@@ -5,4 +5,4 @@ For running pocketbase,
 `pocketbase serve`
 
 ##  Screenshots
-[demo](https://user-images.githubusercontent.com/73477387/201404318-f4c793c3-8046-4fdf-b7b0-2e0d1e58e1ca.PNG)
+![demo](https://user-images.githubusercontent.com/73477387/201408044-b26e3de1-157a-4458-b8e3-fe011b1b48eb.PNG)
